@@ -73,10 +73,10 @@
 
 ### Core Framework: React Native
 
-### State Management: 
+### State Management:
 - Redux Toolkit with Redux Persist
 
-### Navigation: 
+### Navigation:
 - React Navigation v6
 
 ### Image Handling:

@@ -172,7 +172,7 @@
 
 ### Primary Recommendation: Python Stack
 - Language: Python 3.11+
-- API Framework: FastAPI 
+- API Framework: FastAPI
 - Databases:
   - PostgreSQL for primary data storage
   - Redis for caching and real-time features
